@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated train/test splits (large)
+data/splits/
+data/*-citibike-tripdata
+
+# Script outputs (figures, per-station CSVs)
+output/
+
+# macOS
+.DS_Store
