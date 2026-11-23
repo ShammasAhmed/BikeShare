@@ -224,7 +224,7 @@ data/splits/
 data/*-citibike-tripdata
 
 # Script outputs (figures, per-station CSVs)
-output/
+# output/
 
 # macOS
 .DS_Store
